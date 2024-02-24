@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-*Working hard on my english.*
   <p>
   My name is Mateus, i'm from Brazil. I've been working with software development for about 4 years by now. </br>
   I'm mainly a Java back-end developer. And i really enjoy subjects as clean architecture, design patterns and micro-services. </br>
