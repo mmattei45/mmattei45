@@ -22,9 +22,3 @@ Links:
 <a href="https://leetcode.com/mmattei45/">
   LeetCode
 </a>
-
-
-
-### For hirers 💻
-
-If you're here to see what kind of code you should expect from my work you should check out <a href="https://github.com/mmattei45/">this repository</a> *(coming soon)*.
